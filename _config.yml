@@ -61,3 +61,17 @@ exclude:
 
 # SEO Settings
 google_analytics: "" # Add your GA tracking ID here after setup
+
+# Sitemap Settings
+sitemap:
+  changefreq: weekly
+  priority: 0.8
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      sitemap: true

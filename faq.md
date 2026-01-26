@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Frequently Asked Questions (FAQ)
-description: Common questions about Precisive Books LLC notary and bookkeeping services.
+title: FAQ - Mobile Notary & RON Services | Precisive Books LLC
+description: Frequently asked questions about mobile notary services, remote online notarization (RON), and bookkeeping services in Chantilly, Virginia. Get answers about our notary and bookkeeping services.
+keywords: notary FAQ, RON FAQ, mobile notary questions, remote notary questions, notary services virginia FAQ
 permalink: /faq/
 ---
 
