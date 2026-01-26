@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Message Sent Successfully
-permalink: /contact/success/
+permalink: /contact/success.html
 ---
 
 # Thank You!
