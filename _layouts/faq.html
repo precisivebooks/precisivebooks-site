@@ -54,16 +54,10 @@
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}">
     
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <link rel="canonical" href="{{ page.url | absolute_url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
-    
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
     
     {% if site.google_analytics %}
     <!-- Google Analytics -->
@@ -77,6 +71,7 @@
     {% endif %}
     
     {% include schema.html %}
+    {% include faq-schema.html %}
 </head>
 <body>
     <a href="#main-content" class="skip-to-main">Skip to main content</a>
@@ -111,7 +106,7 @@
     <main class="main-content" id="main-content" role="main">
         <div class="container">
             {% include breadcrumbs.html %}
-            <article>
+            <article itemscope itemtype="https://schema.org/FAQPage">
                 {{ content }}
             </article>
         </div>
@@ -128,7 +123,7 @@
                     <h3>Contact</h3>
                     <p>
                         {{ site.contact.address }}<br>
-                        Phone: <a href="tel:5713063551">{{ site.contact.phone }}</a><br>
+                        Phone: <a href="tel:{{ site.contact.phone | replace: ' ', '' | replace: '(', '' | replace: ')', '-' }}">{{ site.contact.phone }}</a><br>
                         Email: <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>
                     </p>
                 </div>

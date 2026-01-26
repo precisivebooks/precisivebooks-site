@@ -5,7 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
     
     if (mobileMenuToggle && mainNav) {
         mobileMenuToggle.addEventListener('click', function() {
-            mainNav.classList.toggle('active');
+            const isExpanded = mainNav.classList.toggle('active');
+            mobileMenuToggle.setAttribute('aria-expanded', isExpanded);
         });
     }
     
@@ -15,7 +16,23 @@ document.addEventListener('DOMContentLoaded', function() {
         link.addEventListener('click', function() {
             if (window.innerWidth <= 768) {
                 mainNav.classList.remove('active');
+                if (mobileMenuToggle) {
+                    mobileMenuToggle.setAttribute('aria-expanded', 'false');
+                }
             }
         });
     });
+    
+    // Skip to main content functionality
+    const skipLink = document.querySelector('.skip-to-main');
+    if (skipLink) {
+        skipLink.addEventListener('click', function(e) {
+            e.preventDefault();
+            const mainContent = document.getElementById('main-content');
+            if (mainContent) {
+                mainContent.focus();
+                mainContent.scrollIntoView({ behavior: 'smooth' });
+            }
+        });
+    }
 });

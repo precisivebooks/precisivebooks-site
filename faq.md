@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: faq
 title: FAQ - Mobile Notary & RON Services | Precisive Books LLC
 description: Frequently asked questions about mobile notary services, remote online notarization (RON), and bookkeeping services in Chantilly, Virginia. Get answers about our notary and bookkeeping services.
 keywords: notary FAQ, RON FAQ, mobile notary questions, remote notary questions, notary services virginia FAQ
@@ -10,9 +10,12 @@ permalink: /faq/
 
 ## Remote Online Notary (RON) Questions
 
-### What is a Remote Online Notary (RON)?
-
-A Remote Online Notary is a commissioned notary public authorized to notarize documents online using secure audio-visual technology. This means you can have documents notarized from anywhere using your smartphone, tablet, or computer.
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+  <h3 itemprop="name">What is a Remote Online Notary (RON)?</h3>
+  <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+    <p itemprop="text">A Remote Online Notary is a commissioned notary public authorized to notarize documents online using secure audio-visual technology. This means you can have documents notarized from anywhere using your smartphone, tablet, or computer.</p>
+  </div>
+</div>
 
 ### How does Remote Online Notarization work?
 
