@@ -26,7 +26,7 @@ Chantilly, VA 20151
 
 ## Contact Form
 
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="contact-form">
+<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" action="/contact/success/" class="contact-form">
   <input type="hidden" name="form-name" value="contact" />
   <p style="display:none">
     <label>Don't fill this out: <input name="bot-field" /></label>
