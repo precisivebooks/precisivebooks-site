@@ -1,0 +1,61 @@
+# Site Settings
+title: Precisive Books LLC
+description: Professional mobile notary and remote online notarization (RON) services in Virginia. We offer mobile notary services, RON, and bookkeeping for individuals, real estate professionals, and businesses.
+url: https://www.precisivebooks.com
+baseurl: ""
+
+# Author Information
+author:
+  name: "Matthew Delgado"
+  email: "matthew@precisivebooks.com"
+
+# Social Media
+social:
+  youtube: "@precisivebooks"
+  youtube_url: "https://www.youtube.com/@precisivebooks"
+
+# Contact Information
+contact:
+  phone: "(571) 306-3551"
+  email: "matthew@precisivebooks.com"
+  address: "13950 Lee Jackson Memorial Highway #103, Chantilly, VA 20151"
+  hours:
+    weekdays: "Monday - Friday: 9:00 AM - 6:00 PM"
+    saturday: "Saturday: 10:00 AM - 4:00 PM"
+    sunday: "Sunday: Closed"
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Mobile Notary Services"
+    url: /mobile-notary-services/
+  - title: "Remote Notary Services"
+    url: /remote-notary-services/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Contact"
+    url: /contact/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude from processing
+exclude:
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+  - README.md
+
+# SEO Settings
+google_analytics: "" # Add your GA tracking ID here after setup

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    
+    {% seo %}
+    
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    
+    {% if site.google_analytics %}
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+    {% endif %}
+    
+    {% include schema.html %}
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <a href="{{ '/' | relative_url }}">
+                        <h1>{{ site.title }}</h1>
+                    </a>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        {% for item in site.navigation %}
+                        <li>
+                            <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
+                                {{ item.title }}
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </nav>
+                <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            {{ content }}
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>{{ site.title }}</h3>
+                    <p>{{ site.description }}</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact</h3>
+                    <p>
+                        {{ site.contact.address }}<br>
+                        Phone: {{ site.contact.phone }}<br>
+                        Email: <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>
+                    </p>
+                </div>
+                <div class="footer-section">
+                    <h3>Hours</h3>
+                    <p>
+                        {{ site.contact.hours.weekdays }}<br>
+                        {{ site.contact.hours.saturday }}<br>
+                        {{ site.contact.hours.sunday }}
+                    </p>
+                </div>
+                <div class="footer-section">
+                    <h3>Follow Us</h3>
+                    {% if site.social.youtube_url %}
+                    <p>
+                        <a href="{{ site.social.youtube_url }}" target="_blank" rel="noopener noreferrer">
+                            YouTube: {{ site.social.youtube }}
+                        </a>
+                    </p>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>
