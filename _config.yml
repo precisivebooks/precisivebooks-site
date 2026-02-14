@@ -22,9 +22,9 @@ contact:
   email: "matthew@precisivebooks.com"
   address: "13950 Lee Jackson Memorial Highway #103, Chantilly, VA 20151"
   hours:
-    weekdays: "Monday - Friday: 9:00 AM - 6:00 PM"
-    saturday: "Saturday: 10:00 AM - 4:00 PM"
-    sunday: "Sunday: Closed"
+    weekdays: "Monday - Friday: 5:00 PM - 9:00 PM"
+    saturday: "Saturday: 8:00 AM - 4:00 PM"
+    sunday: "Sunday: 8:00 AM - 4:00 PM"
 
 # Navigation
 navigation:
