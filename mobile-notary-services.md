@@ -1,69 +1,66 @@
 ---
 layout: default
-title: Mobile Notary Services in Chantilly, VA | Fairfax & Loudoun Counties
-description: Mobile notary services in Chantilly, Virginia. We come to you! Serving Fairfax County, Loudoun County, and Prince William County. Notarize documents at your location - power of attorney, loan documents, affidavits, and more.
-keywords: mobile notary chantilly va, mobile notary fairfax county, mobile notary loudoun county, notary public chantilly, mobile notary services virginia, notary that comes to you
+title: Mobile Notary Services | White-Glove Document Execution | Chantilly, VA
+description: On-site notarization for professionals who demand accuracy and discretion. Estate planning, real estate, legal documents. Northern Virginia. By referral or introduction.
+keywords: mobile notary chantilly va, mobile notary fairfax county, mobile notary loudoun county, executive notary virginia, on-site notarization northern virginia
 permalink: /mobile-notary-services/
 ---
 
-# Mobile Notary Services in Chantilly, Virginia
+# Mobile Notary Services — On-Site Execution
 
-Precisive Books LLC offers professional mobile notary services in Chantilly, Virginia, and throughout Northern Virginia. Our mobile notary comes to your location to save you time and provide access to notarizations that require in-person service.
+When documents can't wait and accuracy is non-negotiable, we come to you.
 
-## What Documents Can Be Notarized?
+Precisive Books provides on-site notarization for law firms, investors, and executives throughout Northern Virginia. No handoffs. No delays. Handled correctly the first time.
 
-These documents can include, but are not limited to:
+## Who This Is For
 
-- Vehicle Deed Sales Documents for foreign governments
+- Estate planning & probate attorneys with time-sensitive signings
+- Real estate investors closing deals on tight timelines
+- Business owners and executives who need documents executed at their location
+- Medical practice owners and professionals requiring discretion
+
+If your schedule doesn't accommodate office visits — we accommodate yours.
+
+## Documents We Execute
+
 - Power of Attorney documents
 - Affidavits
 - Loan documents
 - Real estate documents
+- Vehicle deed sales (including foreign government requirements)
 - Legal documents requiring notarization
-- And many more document types
 
-## Why Choose Mobile Notary Services?
+*Contact us to confirm your specific document type.*
 
-### Convenience
-Our mobile notary service comes to your location, saving you time and eliminating the need to travel to a notary office.
+## What You Get
 
-### Flexible Scheduling
-We work around your schedule with availability:
-- **Monday - Friday:** 9:00 AM - 6:00 PM
-- **Saturday:** 10:00 AM - 4:00 PM
+- **One point of contact** — No handoffs, no runaround
+- **Rapid response** — When schedules collapse, we move
+- **Virginia statute-compliant, always** — Every execution meets the letter of the law
+- **Discreet execution** — Your location, your timeline, your discretion
 
-### Professional Service
-Experienced notary public providing secure, accurate notarizations at your location.
+## Service Areas
 
-## Mobile Notary Service Areas
-
-We provide mobile notary services throughout Northern Virginia:
-
-- **Chantilly, Virginia** - Our main service area
-- **Fairfax County, Virginia** - Including Fairfax, Vienna, Reston, Herndon, Centreville, and surrounding areas
-- **Loudoun County, Virginia** - Including Ashburn, Leesburg, Sterling, Dulles, and surrounding areas
-- **Prince William County, Virginia** - Including Manassas, Woodbridge, Dumfries, and surrounding areas
-- **Surrounding Northern Virginia areas**
-
-Our mobile notary travels to your home, office, or any convenient location within our service area.
+- **Chantilly, Virginia** — Primary service area
+- **Fairfax County** — Fairfax, Vienna, Reston, Herndon, Centreville, and surrounding areas
+- **Loudoun County** — Ashburn, Leesburg, Sterling, Dulles, and surrounding areas
+- **Prince William County** — Manassas, Woodbridge, Dumfries, and surrounding areas
+- **Surrounding Northern Virginia**
 
 ## How It Works
 
-1. **Contact Us**: Call or email to schedule your mobile notary appointment
-2. **Provide Details**: Let us know your location and document type
-3. **We Come to You**: Our notary arrives at your location at the scheduled time
-4. **Notarization**: Documents are notarized on-site with proper identification
-5. **Completion**: You receive your notarized documents immediately
+1. **Request availability** — Contact us with your location and document type
+2. **We confirm** — One point of contact, no handoffs
+3. **We arrive** — On-site at your scheduled time
+4. **Execution** — Documents notarized correctly, the first time
 
-## Pricing
+## Fees
 
-Contact us for competitive pricing on mobile notary services. Rates vary based on location and document type.
+Statutory notarial fees apply per Virginia law. Service, travel, urgency, and coordination fees are agreed upon in advance.
 
-## Schedule Your Mobile Notary Appointment
-
-Ready to schedule? [Contact us](/contact/) today to book your mobile notary session.
+[Request Availability](/contact/){: .submit-button .cta-button}
 
 ---
 
-**Need Remote Notarization Instead?**  
-[Learn about our Remote Online Notary (RON) services →](/remote-notary-services/)
+**Need remote execution instead?**  
+[Remote Online Notary (RON) — Nationwide →](/remote-notary-services/)

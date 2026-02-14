@@ -314,6 +314,13 @@ body {
     box-shadow: var(--shadow-elevated);
 }
 
+/* CTA button (link styled as button) */
+a.cta-button {
+    display: inline-block;
+    text-decoration: none;
+    margin: 1rem 0;
+}
+
 /* Footer */
 .site-footer {
     background: linear-gradient(180deg, var(--secondary-color) 0%, #16162a 100%);

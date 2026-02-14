@@ -1,6 +1,6 @@
 # Site Settings
 title: Precisive Books LLC
-description: Professional mobile notary and remote online notarization (RON) services in Virginia. We offer mobile notary services, RON, and bookkeeping for individuals, real estate professionals, and businesses.
+description: White-glove notary and documentation support for professionals. Discreet, statute-compliant execution of time-sensitive documents for law firms, investors, and executives. By referral or introduction. Chantilly, Virginia.
 url: https://www.precisivebooks.com
 baseurl: ""
 
@@ -36,7 +36,7 @@ navigation:
     url: /remote-notary-services/
   - title: "FAQ"
     url: /faq/
-  - title: "Contact"
+  - title: "Request Availability"
     url: /contact/
 
 # Plugins

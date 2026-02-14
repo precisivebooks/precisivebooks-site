@@ -1,86 +1,72 @@
 ---
 layout: default
-title: Remote Online Notary (RON) Services | Nationwide Notarization
-description: Remote online notarization (RON) services available nationwide. Notarize documents online from anywhere in the U.S. Secure, fast, and convenient. Virginia-based RON provider serving customers across America.
-keywords: remote online notary, RON services, online notary virginia, remote notarization, RON notary, virtual notary, online notary services
+title: Remote Online Notary (RON) | Secure Document Execution Nationwide
+description: Statute-compliant remote notarization for professionals. Secure video execution from anywhere in the U.S. No travel, no delays. By referral or introduction.
+keywords: remote online notary, RON services, online notary virginia, remote notarization nationwide, executive notary services, secure video notarization
 permalink: /remote-notary-services/
 ---
 
-# Remote Online Notary (RON) Services - Nationwide
+# Remote Online Notary (RON) — Nationwide Execution
 
-Precisive Books LLC offers remote online notarization (RON) services for customers across the United States. Based in Chantilly, Virginia, we provide secure, convenient remote notarization services that allow you to notarize documents from anywhere using your smartphone, tablet, or computer.
+When you can't be there in person — but the document can't wait.
 
-## What is Remote Online Notarization (RON)?
+Precisive Books provides secure, statute-compliant remote notarization for professionals across the United States. Same execution certainty. No travel required.
 
-A Remote Online Notary (RON) is a commissioned notary public authorized to notarize documents online using secure audio-visual technology. This means you can have documents notarized from anywhere using your smartphone, tablet, or computer.
+## Who This Is For
 
-## Benefits of Remote Online Notarization
+- Law firms with clients in multiple states
+- Real estate investors closing remotely
+- Executives and business owners with demanding schedules
+- Anyone who needs documents executed — not next week, now
 
-### Convenience
-- Notarize documents from anywhere
-- No need to travel to a notary office
-- Available nationwide (U.S.)
+If timing and accuracy matter — we're the call.
 
-### Secure
-- Secure audio-visual technology
-- Identity verification process
-- Encrypted document transmission
+## What Is Remote Online Notarization?
 
-### Fast
-- Quick scheduling and setup
-- Immediate notarization completion
-- Digital delivery of notarized documents
+A Remote Online Notary (RON) is a commissioned notary public authorized to notarize documents online using secure audio-visual technology. You join a secure video session from anywhere — smartphone, tablet, or computer — and receive legally valid notarization without leaving your desk.
 
-### Available Nationwide
-- Serve customers across the United States
-- No geographic limitations
-- Same professional service, anywhere
+## What You Get
 
-## How Remote Notarization Works
+- **Handled correctly the first time** — No do-overs, no corrections
+- **Rapid response** — Quick scheduling when deadlines are tight
+- **One point of contact** — No handoffs, no runaround
+- **Virginia statute-compliant** — Every execution meets the letter of the law
+- **Nationwide availability** — Same service, anywhere in the U.S.
 
-### Step 1: Schedule Your Session
-Contact us to schedule your remote notarization appointment. We'll provide you with all the details you need.
+*This is not volume notarization. This is execution certainty.*
 
-### Step 2: Prepare Your Documents
-Have your documents ready in digital format (PDF preferred). Ensure you have valid identification ready.
+## Documents We Execute Remotely
 
-### Step 3: Join the Session
-At your scheduled time, join the secure video session using the link provided. You'll need:
-- A device with camera and microphone (smartphone, tablet, or computer)
-- Valid government-issued ID
-- Your documents ready to review
-
-### Step 4: Identity Verification
-Our notary will verify your identity through:
-- Visual ID verification
-- Knowledge-based authentication questions
-- Audio-visual recording of the session
-
-### Step 5: Notarization
-Review your documents together, sign electronically, and receive your notarized documents immediately.
-
-## Documents That Can Be Notarized Remotely
-
-Many document types can be notarized remotely, including:
 - Power of Attorney documents
 - Affidavits
 - Loan documents
 - Real estate documents
-- Legal documents
-- And more (contact us to confirm your document type)
+- Legal documents requiring notarization
+
+*Contact us to confirm your specific document type.*
 
 ## Requirements
 
-- Valid government-issued photo ID (driver's license, passport, etc.)
+- Valid government-issued photo ID (driver's license, passport)
 - Device with camera and microphone
 - Stable internet connection
-- Documents in digital format (PDF)
+- Documents in digital format (PDF preferred)
 
-## Schedule Your Remote Notarization
+## How It Works
 
-Ready to get started? [Contact us](/contact/) to schedule your remote online notarization session.
+1. **Request availability** — Contact us with your document type and timeline
+2. **We confirm** — Secure session details provided
+3. **Join the session** — At your scheduled time, via secure video link
+4. **Identity verification** — ID verification and knowledge-based authentication
+5. **Execution** — Documents signed and notarized; delivery immediate
+
+## Fees
+
+Statutory notarial fees apply per Virginia law. Service, urgency, and coordination fees are agreed upon in advance.
+
+[Request Availability](/contact/){: .submit-button .cta-button}
 
 ---
 
-**Prefer In-Person Service?**  
-[Learn about our Mobile Notary Services →](/mobile-notary-services/)
+**Prefer in-person execution?**  
+[Mobile Notary Services — Northern Virginia →](/mobile-notary-services/)
