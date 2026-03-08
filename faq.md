@@ -78,11 +78,10 @@ Small businesses and independent contractors who need help maintaining accurate 
 
 ## General Questions
 
-### What are your business hours?
+### What are your hours?
 
-- **Monday - Friday:** 9:00 AM - 6:00 PM
 - **Saturday:** 10:00 AM - 4:00 PM
-- **Sunday:** Closed
+- **Sunday:** 10:00 AM - 4:00 PM
 
 ### How do I contact you?
 

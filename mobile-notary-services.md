@@ -27,10 +27,10 @@ These documents can include, but are not limited to:
 ### Convenience
 Our mobile notary service comes to your location, saving you time and eliminating the need to travel to a notary office.
 
-### Flexible Scheduling
-We work around your schedule with availability:
-- **Monday - Friday:** 9:00 AM - 6:00 PM
+### Weekend Availability
+We offer weekend scheduling to accommodate your busy schedule:
 - **Saturday:** 10:00 AM - 4:00 PM
+- **Sunday:** 10:00 AM - 4:00 PM
 
 ### Professional Service
 Experienced notary public providing secure, accurate notarizations at your location.
