@@ -29,6 +29,10 @@ Our mobile notary service comes to your location, saving you time and eliminatin
 
 ### Weekend Availability
 We offer weekend scheduling to accommodate your busy schedule:
+- **Monday:** 5:00 PM - 9:00 PM
+- **Tuesday:** 5:00 PM - 9:00 PM
+- **Wednesday:** 5:00 PM - 9:00 PM
+- **Friday:** 5:00 PM - 9:00 PM
 - **Saturday:** 10:00 AM - 4:00 PM
 - **Sunday:** 10:00 AM - 4:00 PM
 
