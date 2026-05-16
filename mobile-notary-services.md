@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Mobile Notary Services | Chantilly, Fairfax, Loudoun VA
-description: Mobile notary services in Northern Virginia. I come to your home or office on weekday evenings and weekends. Starting at $35. Serving Fairfax, Loudoun, and Prince William counties.
-keywords: mobile notary chantilly va, mobile notary fairfax county, mobile notary loudoun county, evening notary virginia, weekend notary virginia, traveling notary, notary that comes to you, power of attorney notary
+title: Weekend Mobile Notary Services | Chantilly, Fairfax, Loudoun VA
+description: Weekend mobile notary services in Northern Virginia. I come to your home or office on Saturday and Sunday, 10 AM–8 PM. Starting at $35. Serving Fairfax, Loudoun, and Prince William counties.
+keywords: mobile notary chantilly va, mobile notary fairfax county, mobile notary loudoun county, weekend notary virginia, traveling notary, notary that comes to you, power of attorney notary
 permalink: /mobile-notary-services/
 ---
 
 # Mobile Notary Services in Northern Virginia
 
-Precisive Books LLC is a Virginia-commissioned mobile notary based in Chantilly. I travel to your home, office, care facility, or closing table on weekday evenings and weekends so you don't have to take time off work or wait for the courthouse to reopen.
+Precisive Books LLC is a Virginia-commissioned mobile notary based in Chantilly. I travel to your home, office, care facility, or closing table on Saturdays and Sundays so you don't have to take time off work or wait for the courthouse to reopen Monday.
 
 ## Documents I Notarize
 
@@ -26,18 +26,14 @@ If you're unsure whether your document needs a notary—or whether I can handle 
 
 **$35 travel fee + $10 per notarized document.** That's it.
 
-Most appointments include 2–3 stamps, so a typical visit runs $55–$65. There are no after-hours surcharges, no hidden booking fees, and no charge for short waits. You'll know the total before I arrive.
+Most appointments include 2–3 stamps, so a typical visit runs $55–$65. There are no weekend surcharges, no hidden booking fees, and no charge for short waits. You'll know the total before I arrive.
 
-## Availability
+## Weekend Availability
 
-- **Monday:** 5:00 PM – 9:00 PM
-- **Tuesday:** 5:00 PM – 9:00 PM
-- **Wednesday:** 5:00 PM – 9:00 PM
-- **Friday:** 5:00 PM – 9:00 PM
-- **Saturday:** 10:00 AM – 4:00 PM
-- **Sunday:** 10:00 AM – 4:00 PM
+- **Saturday:** 10:00 AM – 8:00 PM
+- **Sunday:** 10:00 AM – 8:00 PM
 
-Same-day and next-day appointments are often available. Booking ahead helps lock in a specific time, but last-minute slots open up regularly—just call.
+Same-day and next-day appointments are often available. Earlier in the week is better for locking in a specific time, but last-minute weekend slots open up regularly—just call.
 
 ## Why a Mobile Notary?
 
