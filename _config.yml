@@ -1,6 +1,6 @@
 # Site Settings
 title: Precisive Books LLC
-description: Professional mobile notary and remote online notarization (RON) services in Virginia. We offer mobile notary services, RON, and bookkeeping for individuals, real estate professionals, and businesses.
+description: Weekend mobile notary for Northern Virginia families and individuals. I come to you. Mobile and Remote Online Notarization (RON) serving Fairfax, Loudoun, and Prince William counties. Starting at $35.
 url: https://www.precisivebooks.com
 baseurl: ""
 
@@ -22,8 +22,8 @@ contact:
   email: "matthew@precisivebooks.com"
   address: "13950 Lee Jackson Memorial Highway #103, Chantilly, VA 20151"
   hours:
-    saturday: "Saturday: 10:00 AM - 4:00 PM"
-    sunday: "Sunday: 10:00 AM - 4:00 PM"
+    saturday: "Saturday: 10:00 AM - 8:00 PM"
+    sunday: "Sunday: 10:00 AM - 8:00 PM"
 
 # Navigation
 navigation:

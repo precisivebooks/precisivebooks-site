@@ -76,9 +76,20 @@ Many document types can be notarized remotely, including:
 - Stable internet connection
 - Documents in digital format (PDF)
 
+## Pricing
+
+[Contact us](/contact/) for current RON pricing. No travel fee applies—since the session is online, you pay only per notarized document. You'll know the total before we begin.
+
+## Weekend Availability
+
+- **Saturday:** 10:00 AM – 8:00 PM
+- **Sunday:** 10:00 AM – 8:00 PM
+
+Same-day and next-day RON appointments are often available—just reach out.
+
 ## Schedule Your Remote Notarization
 
-Ready to get started? [Contact us](/contact/) to schedule your remote online notarization session.
+Ready to get started? [Contact us](/contact/) to schedule your remote online notarization session, or call **(571) 306-3551**.
 
 ---
 

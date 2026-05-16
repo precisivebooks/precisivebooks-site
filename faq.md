@@ -48,11 +48,14 @@ Mobile notary service means our notary public comes to your location to notarize
 
 ### What areas do you serve for mobile notary?
 
-We provide mobile notary services throughout:
-- Fairfax County, Virginia
-- Loudoun County, Virginia
-- Prince William County, Virginia
-- And surrounding Northern Virginia areas
+I serve a 25–30 mile radius around Chantilly, including:
+
+- **Fairfax County:** Chantilly, Centreville, Fairfax, Vienna, Reston, Herndon
+- **Loudoun County:** Ashburn, Sterling, Leesburg, Dulles
+- **Prince William County:** Manassas, Woodbridge, Dumfries
+- **Surrounding areas:** Arlington, Alexandria, and beyond on request
+
+Not sure if I cover your address? [Send me a message](/contact/) and I'll confirm before you book.
 
 ### What documents can be notarized by mobile notary?
 
@@ -61,6 +64,29 @@ We can notarize various document types including vehicle deed sales documents fo
 ### How do I schedule a mobile notary appointment?
 
 Contact us by phone at (571) 306-3551 or email at matthew@precisivebooks.com to schedule your mobile notary appointment. We'll work with you to find a convenient time and location.
+
+### How much does a mobile notary cost?
+
+My mobile notary rate starts at **$35—that's the travel fee—plus $10 per notarized document**. I come to your home or office on weekends when most notary offices are closed. Most appointments include 2–3 stamps, so a typical visit runs $55–$65 total. There are no weekend surcharges or hidden fees.
+
+### Why is it more than a courthouse notary?
+
+A courthouse notary costs less because you go to them on a weekday during business hours. My service is for clients who need a notary on a Saturday or Sunday, at their own home or office, without taking time off work. If weekday availability works for your timeline, the Fairfax County courthouse notary is a budget alternative.
+
+### What forms of payment do you accept?
+
+Cash, check, and major credit/debit cards.
+
+### What should I bring to a mobile notary appointment?
+
+- A valid, unexpired government-issued photo ID (driver's license, passport, state ID, or military ID)
+- The **unsigned** documents to be notarized
+- Any required witnesses (I'll tell you in advance if your document needs them)
+- Payment
+
+### How far in advance should I book?
+
+Earlier in the week is best for locking in a specific time slot, but last-minute weekend appointments often open up. Just call (571) 306-3551 and I'll let you know what's available.
 
 ## Bookkeeping Questions
 
@@ -80,8 +106,10 @@ Small businesses and independent contractors who need help maintaining accurate 
 
 ### What are your hours?
 
-- **Saturday:** 10:00 AM - 4:00 PM
-- **Sunday:** 10:00 AM - 4:00 PM
+- **Saturday:** 10:00 AM - 8:00 PM
+- **Sunday:** 10:00 AM - 8:00 PM
+
+I operate weekends only. Same-day and next-day appointments are often available.
 
 ### How do I contact you?
 
