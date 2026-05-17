@@ -163,5 +163,133 @@
     </footer>
 
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+
+<!-- ═══ PRECISIVE BOOKS AI RECEPTIONIST CHAT WIDGET ═══ -->
+<style>
+#pb-launcher{position:fixed;bottom:24px;right:24px;z-index:9998;width:60px;height:60px;border-radius:50%;background:#1a3a5c;color:#fff;border:none;cursor:pointer;box-shadow:0 4px 16px rgba(0,0,0,0.25);font-size:26px;display:flex;align-items:center;justify-content:center;transition:transform 0.2s;}
+#pb-launcher:hover{transform:scale(1.1);}
+#pb-chat{position:fixed;bottom:96px;right:24px;z-index:9999;width:360px;max-width:calc(100vw - 32px);height:520px;max-height:calc(100vh - 120px);background:#fff;border-radius:16px;box-shadow:0 8px 32px rgba(0,0,0,0.18);display:flex;flex-direction:column;overflow:hidden;transition:opacity 0.2s,transform 0.2s;}
+#pb-chat.pb-hidden{opacity:0;pointer-events:none;transform:translateY(12px);}
+.pb-hdr{background:linear-gradient(135deg,#1a3a5c 0%,#2e6da4 100%);color:#fff;padding:14px 16px;display:flex;align-items:center;gap:12px;}
+.pb-av{width:40px;height:40px;border-radius:50%;background:#4caf8f;display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;}
+.pb-ht h3{font-size:15px;font-weight:600;font-family:-apple-system,sans-serif;}
+.pb-ht p{font-size:12px;opacity:.85;margin-top:1px;font-family:-apple-system,sans-serif;}
+.pb-on{display:inline-block;width:8px;height:8px;background:#4caf8f;border-radius:50%;margin-right:4px;}
+.pb-x{margin-left:auto;background:none;border:none;color:#fff;font-size:20px;cursor:pointer;opacity:.8;}
+.pb-x:hover{opacity:1;}
+#pb-msgs{flex:1;overflow-y:auto;padding:16px 12px;display:flex;flex-direction:column;gap:10px;scroll-behavior:smooth;}
+.pb-m{max-width:85%;padding:10px 13px;border-radius:14px;font-size:14px;line-height:1.45;word-wrap:break-word;font-family:-apple-system,sans-serif;}
+.pb-m.bot{background:#f0f4f8;color:#1a2e40;border-bottom-left-radius:4px;align-self:flex-start;}
+.pb-m.usr{background:#1a3a5c;color:#fff;border-bottom-right-radius:4px;align-self:flex-end;}
+#pb-chips{padding:4px 12px 8px;display:flex;flex-wrap:wrap;gap:6px;}
+.pb-chip{background:#e8f0fb;color:#1a3a5c;border:1px solid #b8d0f0;border-radius:16px;padding:5px 12px;font-size:12.5px;cursor:pointer;transition:background 0.15s;font-family:-apple-system,sans-serif;}
+.pb-chip:hover{background:#cce0f5;}
+.pb-ir{display:flex;gap:8px;padding:10px 12px;border-top:1px solid #e8eef4;}
+#pb-inp{flex:1;border:1px solid #cdd5df;border-radius:20px;padding:9px 14px;font-size:14px;outline:none;font-family:-apple-system,sans-serif;}
+#pb-inp:focus{border-color:#2e6da4;}
+#pb-snd{background:#1a3a5c;color:#fff;border:none;border-radius:50%;width:38px;height:38px;cursor:pointer;font-size:17px;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+#pb-snd:hover{background:#2e6da4;}
+.pb-fi,.pb-fs,.pb-ft{border:1px solid #cdd5df;border-radius:8px;padding:8px 10px;font-size:13px;width:100%;font-family:-apple-system,sans-serif;}
+.pb-ft{resize:vertical;min-height:60px;}
+.pb-fb{background:#1a3a5c;color:#fff;border:none;border-radius:8px;padding:10px;font-size:14px;cursor:pointer;font-weight:600;margin-top:2px;width:100%;font-family:-apple-system,sans-serif;}
+.pb-fb:hover{background:#2e6da4;}
+.pb-typ{display:flex;gap:4px;align-items:center;padding:10px 13px;}
+.pb-typ span{width:7px;height:7px;background:#aab4c0;border-radius:50%;animation:pb-bounce 1.2s infinite;}
+.pb-typ span:nth-child(2){animation-delay:0.2s;}
+.pb-typ span:nth-child(3){animation-delay:0.4s;}
+@keyframes pb-bounce{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-6px)}}
+</style>
+
+<button id="pb-launcher" onclick="pbToggle()" title="Chat with us">💬</button>
+<div id="pb-chat" class="pb-hidden">
+  <div class="pb-hdr">
+    <div class="pb-av">📋</div>
+    <div class="pb-ht"><h3>Precisive Books LLC</h3><p><span class="pb-on"></span>AI Receptionist · Always available</p></div>
+    <button class="pb-x" onclick="pbToggle()">✕</button>
+  </div>
+  <div id="pb-msgs"></div>
+  <div id="pb-chips"></div>
+  <div class="pb-ir">
+    <input id="pb-inp" type="text" placeholder="Ask a question or type 'book'…" autocomplete="off" onkeydown="if(event.key==='Enter')pbSend()">
+    <button id="pb-snd" onclick="pbSend()">➤</button>
+  </div>
+</div>
+
+<script>
+(function(){
+var pbOpen=false,pbBkShown=false;
+var KB={
+  greeting:["Hi there! 👋 I'm the virtual receptionist for <strong>Precisive Books LLC</strong> — your local mobile notary in Northern Virginia.\n\nHow can I help you today?"],
+  price:["Our rates are simple:\n\n• <strong>Travel fee:</strong> $35 (we come to you!)\n• <strong>Per notarized document:</strong> $10\n\nSo notarizing 2 documents at your home = <strong>$55 total</strong>. No hidden fees.\n\nWould you like to book an appointment?"],
+  hours:["We're available <strong>every Saturday and Sunday, 10 AM – 8 PM</strong>. 🗓️\n\nNo need to take a day off work — we work around your schedule. Want to book a weekend appointment?"],
+  area:["We serve all of <strong>Northern Virginia</strong>, including:\n\nChantilly • Centreville • Fairfax • Herndon • Reston • Ashburn • Sterling • Leesburg • Manassas\n\nWe come to your home, office, or any convenient location."],
+  documents:["We notarize a wide range of documents:\n\n• Powers of attorney\n• Healthcare directives & living wills\n• Affidavits & sworn statements\n• Deeds & real estate documents\n• Loan & mortgage documents\n• Vehicle titles • Trust documents • Wills\n\nNot sure if yours qualifies? Just ask!"],
+  booking:["Great! Fill out the quick form below and Matthew will confirm your appointment within a few hours. ⬇️","__FORM__"],
+  id:["<strong>Yes — a valid, unexpired government-issued photo ID is required</strong> for every notarization:\n\n• Driver's license • Passport • State ID • Military ID\n\nPlease have it ready when we arrive!"],
+  about:["<strong>Precisive Books LLC</strong> is a Virginia-commissioned, insured mobile notary service based in Chantilly, VA, owned by <strong>Matthew Delgado</strong>.\n\nWe make notarizations easy and affordable — on your schedule, at your location."],
+  contact:["You can reach us at:\n\n🌐 <strong>precisivebooks.com</strong>\n📧 <strong>precisivebooksllc@gmail.com</strong>\n\nOr just chat here — we'll get back to you soon!"],
+  fallback:["I'm not sure I caught that, but I'm happy to help! Here are some common questions:","__CHIPS__"]
+};
+var CHIPS=["💰 Pricing","🕐 Hours","📍 Service area","📄 Documents","📅 Book appointment"];
+
+function pbToggle(){pbOpen=!pbOpen;var c=document.getElementById('pb-chat');c.classList.toggle('pb-hidden',!pbOpen);if(pbOpen&&!document.getElementById('pb-msgs').children.length)setTimeout(function(){pbBot(KB.greeting[0],CHIPS)},400);}
+function pbAddMsg(t,w){var b=document.getElementById('pb-msgs'),e=document.createElement('div');e.className='pb-m '+w;e.innerHTML=t.replace(/\n/g,'<br>');b.appendChild(e);b.scrollTop=b.scrollHeight;}
+function pbTyping(){var b=document.getElementById('pb-msgs'),e=document.createElement('div');e.className='pb-m bot pb-typ';e.id='pb-typing';e.innerHTML='<span></span><span></span><span></span>';b.appendChild(e);b.scrollTop=b.scrollHeight;}
+function pbRmTyp(){var t=document.getElementById('pb-typing');if(t)t.remove();}
+function pbBot(txt,chips,d){d=d||700;pbTyping();setTimeout(function(){pbRmTyp();pbAddMsg(txt,'bot');pbChips(chips||[])},d);}
+function pbChips(arr){var el=document.getElementById('pb-chips');el.innerHTML='';arr.forEach(function(c){var b=document.createElement('button');b.className='pb-chip';b.textContent=c;b.onclick=function(){pbUserSay(c);};el.appendChild(b);});}
+function pbSend(){var i=document.getElementById('pb-inp'),t=i.value.trim();if(!t)return;i.value='';pbUserSay(t);}
+function pbUserSay(t){pbAddMsg(t,'usr');pbChips([]);setTimeout(function(){pbRespond(t.toLowerCase())},300);}
+function pbRespond(t){
+  var r;
+  if(/hi|hello|hey|morning|afternoon|evening|start|help/.test(t))r=KB.greeting;
+  else if(/price|cost|rate|fee|much|charge|\$/.test(t))r=KB.price;
+  else if(/hour|open|availab|time|schedul|weekend|sat|sun|when/.test(t))r=KB.hours;
+  else if(/area|locat|serve|county|city|where|travel|come/.test(t))r=KB.area;
+  else if(/doc|notariz|type|poa|power|affidavit|deed|will|trust|title|loan|health|what can/.test(t))r=KB.documents;
+  else if(/book|appoint|schedul|reserv|set up/.test(t))r=KB.booking;
+  else if(/id|identif|licens|passport|bring/.test(t))r=KB.id;
+  else if(/about|who|matthew|precisive|company|business/.test(t))r=KB.about;
+  else if(/contact|email|phone|reach|website/.test(t))r=KB.contact;
+  else r=KB.fallback;
+  var d=700;
+  r.forEach(function(x){
+    if(x==='__FORM__'){setTimeout(pbShowForm,d+200);}
+    else if(x==='__CHIPS__'){setTimeout(function(){pbChips(CHIPS)},d+200);}
+    else{pbBot(x,null,d);d+=1200;}
+  });
+  if(!r.includes('__CHIPS__')&&!r.includes('__FORM__'))setTimeout(function(){pbChips(["📅 Book appointment","💰 Pricing","📄 Documents"])},d);
+}
+function pbShowForm(){
+  if(pbBkShown)return;pbBkShown=true;
+  var b=document.getElementById('pb-msgs'),w=document.createElement('div');
+  w.className='pb-m bot';w.style.maxWidth='95%';w.style.width='95%';
+  w.innerHTML='<strong>📅 Book Your Appointment</strong><div style="display:flex;flex-direction:column;gap:8px;margin-top:10px;">'
+    +'<input class="pb-fi" id="bf-n" placeholder="Full name *">'
+    +'<input class="pb-fi" id="bf-p" placeholder="Phone number *">'
+    +'<input class="pb-fi" id="bf-e" placeholder="Email address">'
+    +'<input class="pb-fi" id="bf-d" placeholder="Document type (e.g. Power of Attorney) *">'
+    +'<input class="pb-fi" id="bf-l" placeholder="Your address / city *">'
+    +'<input class="pb-fi" id="bf-t" placeholder="Preferred date & time (e.g. Sat May 24, 2pm)">'
+    +'<textarea class="pb-ft" id="bf-x" placeholder="Additional notes (optional)"></textarea>'
+    +'<button class="pb-fb" onclick="pbSubmit()">📨 Send Booking Request</button></div>';
+  b.appendChild(w);b.scrollTop=b.scrollHeight;
+}
+window.pbSubmit=function(){
+  var n=document.getElementById('bf-n').value.trim(),p=document.getElementById('bf-p').value.trim(),
+      e=document.getElementById('bf-e').value.trim(),d=document.getElementById('bf-d').value.trim(),
+      l=document.getElementById('bf-l').value.trim(),t=document.getElementById('bf-t').value.trim(),
+      x=document.getElementById('bf-x').value.trim();
+  if(!n||!p||!d||!l){alert('Please fill in all required fields.');return;}
+  var sub=encodeURIComponent('New Notary Appointment Request — '+n);
+  var body=encodeURIComponent('New Appointment Request\n\nName: '+n+'\nPhone: '+p+'\nEmail: '+(e||'Not provided')+'\nDocument: '+d+'\nLocation: '+l+'\nDate/Time: '+(t||'Flexible')+'\nNotes: '+(x||'None')+'\n\n--- Sent via Precisive Books AI Receptionist');
+  window.location.href='mailto:precisivebooksllc@gmail.com?subject='+sub+'&body='+body;
+  pbBkShown=false;
+  setTimeout(function(){pbBot('✅ <strong>Booking request sent!</strong>\n\nThank you, '+n+'! Matthew will confirm your appointment within a few hours.\n\n📧 precisivebooksllc@gmail.com\n🌐 precisivebooks.com',["💰 Pricing","📍 Service area"],800);},500);
+};
+window.pbToggle=pbToggle;window.pbSend=pbSend;
+})();
+</script>
+<!-- ═══ END AI RECEPTIONIST ═══ -->
 </body>
 </html>
