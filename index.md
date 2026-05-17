@@ -72,6 +72,18 @@ Same-day and next-day appointments available—book early to lock in your slot.
 
 [Schedule a weekend appointment →](/contact/) or call **(571) 306-3551**.
 
+---
+
+## 📘 New: Side Hustle Bookkeeping Guide
+
+<div style="background:linear-gradient(135deg,#1a3a5c 0%,#2e6da4 100%);border-radius:14px;padding:28px 24px;color:#fff;margin:24px 0;display:flex;flex-wrap:wrap;gap:20px;align-items:center;">
+  <div style="flex:1;min-width:200px;">
+    <h3 style="color:#fff;font-size:1.2rem;margin:0 0 8px;">Keep Your Side Hustle Legal &amp; Profitable</h3>
+    <p style="opacity:.9;margin:0 0 16px;font-size:0.95rem;">A plain-English bookkeeping guide written for freelancers, gig workers, and small business owners — no accounting degree required. Track income, handle taxes, and stay organized all year.</p>
+    <a href="https://precisivebooks.gumroad.com/l/side-hustle-bookkeeping" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#4caf8f;color:#fff;text-decoration:none;padding:11px 22px;border-radius:8px;font-weight:600;font-size:0.95rem;">Get the Guide →</a>
+  </div>
+</div>
+
 ## Frequently Asked Questions
 
 Have questions before booking? The [FAQ page](/faq/) covers pricing, what to bring, accepted ID, document types, service area, and how Remote Online Notarization works.
