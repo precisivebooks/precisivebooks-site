@@ -1,32 +1,32 @@
 ---
 layout: default
-title: Weekend Mobile Notary in Northern Virginia | Precisive Books LLC
-description: Weekend mobile notary for Northern Virginia families and individuals. I come to you—Saturday and Sunday across Fairfax, Loudoun, and Prince William counties. Starting at $35.
-keywords: weekend mobile notary, mobile notary chantilly va, mobile notary fairfax county, mobile notary loudoun county, traveling notary virginia, power of attorney notary, notary for families, virginia notary, remote online notary virginia
+title: Same-Day Mobile Notary in Chantilly, VA | Precisive Books LLC
+description: Same-day and next-day mobile notary in Chantilly, VA. I come to your home or office on weekends — Saturday and Sunday, 10 AM–8 PM. Virginia-commissioned, insured, and always reliable.
+keywords: same day mobile notary chantilly va, mobile notary chantilly va, mobile notary fairfax county, mobile notary loudoun county, weekend notary virginia, power of attorney notary chantilly, notary that comes to you northern virginia, virginia notary, remote online notary virginia
 ---
 
-# Weekend Mobile Notary for Northern Virginia Families and Individuals
+# Same-Day Mobile Notary in Chantilly, VA
 
-**I come to you.** Precisive Books LLC is a Virginia-commissioned mobile notary serving homeowners, families, and individuals across Northern Virginia on Saturdays and Sundays, 10:00 AM–8:00 PM. No taking time off work. No courthouse lines. No waiting until Monday.
+**Need it done this weekend?** Precisive Books LLC is a Virginia-commissioned mobile notary serving Chantilly and all of Northern Virginia. I come to your home, office, or care facility — Saturday and Sunday, 10:00 AM–8:00 PM. Same-day appointments available. No courthouse lines, no weekday scheduling, no waiting.
 
-[Book a Weekend Appointment →](/contact/)
+[Book a Same-Day Appointment →](/contact/)
 
-## Why People Choose a Weekend Mobile Notary
+## Why Clients Choose Precisive Books
 
-### Convenience
-I travel to your home, office, care facility, or closing table—anywhere within a 25–30 mile radius of Chantilly. Weekends and evenings, when courthouse and bank notaries are closed.
+### Same-Day & Next-Day Availability
+Most notaries are booked out days in advance or only available during business hours. I offer same-day and next-day weekend appointments — because document deadlines don't wait until Monday.
 
-### Reliability
-Virginia-commissioned. Insured. Background-screened. Consistent availability every Saturday and Sunday—not a "maybe I can fit you in" service.
+### Reliable. Every Time.
+Virginia-commissioned, insured, and background-screened. I show up on time, handle your documents correctly the first time, and follow Virginia Secretary of the Commonwealth guidelines to the letter. No surprises, no rescheduling.
 
-### Speed
-Same-day and next-day weekend appointments. Documents handled correctly the first time, following Virginia Secretary of the Commonwealth guidelines to the letter.
+### We Come to You
+Your home. Your office. A hospital, care facility, or closing table — anywhere within 25–30 miles of Chantilly, VA. You don't move; I do.
 
-## Transparent Pricing
+## Simple, Transparent Pricing
 
-**Starting at $35.** That's the travel fee, plus **$10 per notarized document**. No hidden fees, no surge pricing for weekends. You'll know the total before I arrive.
+**$35 travel fee + $10 per notarized document.** No hidden fees, no weekend surcharges. You'll know the exact total before I arrive.
 
-If weekday availability works for your timeline, the Fairfax County courthouse notary is a budget alternative. If you need it done on a weekend, in your home, on your schedule—that's what I do.
+Most visits cost $45–$65 and take under 30 minutes.
 
 ## Services
 
@@ -63,14 +63,13 @@ Not sure if I cover your address? [Send me a quick message](/contact/) and I'll 
 
 ## Hours
 
-**Saturday:** 10:00 AM – 8:00 PM
-**Sunday:** 10:00 AM – 8:00 PM
+**Saturday & Sunday:** 10:00 AM – 8:00 PM
 
-Same-day and next-day appointments available—book early to lock in your slot.
+Same-day slots fill fast — the earlier you reach out, the better your chances of getting the time you need.
 
 ## Get Started
 
-[Schedule a weekend appointment →](/contact/) or call **(571) 306-3551**.
+[Book a same-day appointment →](/contact/) or call **(571) 306-3551**.
 
 ---
 
@@ -101,7 +100,6 @@ Helpful guides for clients considering a weekend or mobile notary:
 ---
 
 **Precisive Books LLC**
-13950 Lee Jackson Memorial Highway #103
-Chantilly, VA 20151
+Chantilly, VA
 Phone: (571) 306-3551
 Email: matthew@precisivebooks.com
