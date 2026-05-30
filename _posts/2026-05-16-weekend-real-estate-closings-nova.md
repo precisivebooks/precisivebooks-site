@@ -52,10 +52,6 @@ For a standard refinance package, expect the notarization portion to take 30–6
 
 **5. Block off the time.** A residential closing usually takes 60–90 minutes from start to finish, including notarization. A refinance can be similar.
 
-## Pricing for closings
-
-Precisive Books charges **$35 for travel + $10 per notarized document**. A residential closing with 6–8 notarial stamps typically runs $95–$115. A full refinance package with more stamps may run higher—I'll confirm the total before the appointment.
-
 ## Service area for weekend closings
 
 I cover a 25–30 mile radius around Chantilly, which includes:

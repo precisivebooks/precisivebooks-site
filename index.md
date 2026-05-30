@@ -22,12 +22,6 @@ Virginia-commissioned, insured, and background-screened. I show up on time, hand
 ### We Come to You
 Your home. Your office. A hospital, care facility, or closing table — anywhere within 25–30 miles of Chantilly, VA. You don't move; I do.
 
-## Simple, Transparent Pricing
-
-**$35 travel fee + $10 per notarized document.** No hidden fees, no weekend surcharges. You'll know the exact total before I arrive.
-
-Most visits cost $45–$65 and take under 30 minutes.
-
 ## Services
 
 ### [Mobile Notary Services →](/mobile-notary-services/)
@@ -85,7 +79,7 @@ Same-day slots fill fast — the earlier you reach out, the better your chances 
 
 ## Frequently Asked Questions
 
-Have questions before booking? The [FAQ page](/faq/) covers pricing, what to bring, accepted ID, document types, service area, and how Remote Online Notarization works.
+Have questions before booking? The [FAQ page](/faq/) covers what to bring, accepted ID, document types, service area, and how Remote Online Notarization works.
 
 ## Recent Articles
 

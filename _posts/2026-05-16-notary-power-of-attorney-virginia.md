@@ -55,9 +55,9 @@ A Virginia notary cannot serve as one of the two qualifying witnesses for an adv
 
 Powers of attorney are commonly executed when someone is preparing for surgery, entering a care facility, traveling internationally, or planning ahead for an aging parent. In those situations, the signer often cannot easily travel to a courthouse or bank. A mobile notary comes to the home, hospital room, or assisted living facility on a weekend if needed.
 
-## Pricing and availability
+## Availability
 
-Precisive Books charges **$35 travel + $10 per notarized document**. A typical POA notarization is one stamp, so a full appointment usually runs **$45 total**. Weekend hours are Saturday and Sunday, 10:00 AM–8:00 PM, throughout Fairfax, Loudoun, and Prince William counties.
+Weekend hours are Saturday and Sunday, 10:00 AM–8:00 PM, throughout Fairfax, Loudoun, and Prince William counties. [Contact me](/contact/) for a quote before you book.
 
 [Schedule a POA notarization →](/contact/) or call **(571) 306-3551**.
 

@@ -22,12 +22,6 @@ Need your documents notarized this weekend? Precisive Books LLC is a Virginia-co
 
 If you're unsure whether your document needs a notary—or whether I can handle it—[send me a quick message](/contact/) and I'll confirm before you book.
 
-## Pricing
-
-**$35 travel fee + $10 per notarized document.** That's it.
-
-Most appointments include 2–3 stamps, so a typical visit runs $55–$65. There are no weekend surcharges, no hidden booking fees, and no charge for short waits. You'll know the total before I arrive.
-
 ## Weekend Availability
 
 - **Saturday:** 10:00 AM – 8:00 PM
@@ -60,7 +54,7 @@ Not sure if I cover your address? [Ask first](/contact/)—I'll let you know whe
 ## How It Works
 
 1. **Contact me** — Call (571) 306-3551, email matthew@precisivebooks.com, or use the [contact form](/contact/). Include the date, time, location, and a brief description of the documents.
-2. **Confirm your appointment** — I'll confirm availability, total cost, and any prep instructions (what to bring, what not to sign in advance).
+2. **Confirm your appointment** — I'll confirm availability and any prep instructions (what to bring, what not to sign in advance).
 3. **I come to you** — At the scheduled time, at your home, office, or chosen location anywhere in the service area.
 4. **Notarization** — I verify your ID, witness the signature, apply the seal, and complete the journal entry.
 5. **Done** — Your documents leave with you, fully notarized.

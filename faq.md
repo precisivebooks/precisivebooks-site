@@ -67,7 +67,7 @@ Contact us by phone at (571) 306-3551 or email at matthew@precisivebooks.com to 
 
 ### How much does a mobile notary cost?
 
-My mobile notary rate starts at **$35—that's the travel fee—plus $10 per notarized document**. I come to your home or office on weekends when most notary offices are closed. Most appointments include 2–3 stamps, so a typical visit runs $55–$65 total. There are no weekend surcharges or hidden fees.
+Pricing depends on the number of documents and your location. [Contact me](/contact/) or call **(571) 306-3551** for a quick quote — I'll give you the total before your appointment.
 
 ### Why is it more than a courthouse notary?
 

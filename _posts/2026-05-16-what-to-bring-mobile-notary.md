@@ -33,7 +33,7 @@ If you've recently changed your name and your ID hasn't caught up yet, let me kn
 
 Bring the document you need notarized, but **do not sign it before I arrive** unless I've specifically told you it's OK to. For most notarial acts in Virginia, you must sign in front of the notary. If you've already signed, we may have to print or reprint the document on the spot.
 
-If you have multiple documents that need to be notarized, bring them all to one appointment. The travel fee is the same whether I notarize one stamp or five, so combining them saves you money.
+If you have multiple documents that need to be notarized, bring them all to one appointment — it's more efficient for everyone.
 
 ## 3. Required witnesses (if applicable)
 
@@ -59,7 +59,7 @@ Precisive Books accepts:
 - **Check** (made out to Precisive Books LLC)
 - **Major credit/debit cards**
 
-Pricing is **$35 travel fee + $10 per notarized document**. I'll confirm the total when you book, so there are no surprises.
+I'll confirm the total when you book, so there are no surprises.
 
 ## 5. A flat surface and a working pen
 
@@ -67,7 +67,7 @@ Pick a kitchen table, desk, or any other flat surface. Bring a working ballpoint
 
 ## 6. Anyone else who needs to sign
 
-If the document has multiple signers, everyone needs to be at the appointment with their own valid photo ID. Each signer pays the same per-stamp fee, but you only pay one travel fee.
+If the document has multiple signers, everyone needs to be at the appointment with their own valid photo ID.
 
 ## Ready to book?
 

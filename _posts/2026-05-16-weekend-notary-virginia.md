@@ -46,7 +46,7 @@ Precisive Books LLC serves a 25–30 mile radius around Chantilly, including Fai
 
 ## 5. Know what it costs before you book
 
-Mobile notary pricing in Virginia is typically a travel fee plus a per-stamp fee. Precisive Books charges **$35 for travel + $10 per notarized document**, all-in. Most appointments include 2–3 stamps, which means a typical weekend visit runs $55–$65 total.
+Mobile notary pricing in Virginia is typically a travel fee plus a per-stamp fee. Rates vary by provider — [contact Precisive Books](/contact/) for a quick quote based on your location and documents.
 
 ## 6. Prepare your space
 

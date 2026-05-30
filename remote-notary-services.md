@@ -76,10 +76,6 @@ Many document types can be notarized remotely, including:
 - Stable internet connection
 - Documents in digital format (PDF)
 
-## Pricing
-
-[Contact us](/contact/) for current RON pricing. No travel fee applies—since the session is online, you pay only per notarized document. You'll know the total before we begin.
-
 ## Weekend Availability
 
 - **Saturday:** 10:00 AM – 8:00 PM

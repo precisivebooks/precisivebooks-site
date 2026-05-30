@@ -48,11 +48,9 @@ A mobile notary is a Virginia-commissioned notary who travels to your location�
 - Higher cost—you're paying for travel and convenience
 - Requires scheduling (most mobile notaries don't do walk-ins)
 
-## The pricing difference, plainly
+## The cost difference, plainly
 
-A courthouse notary in Virginia is capped at a few dollars per stamp. Precisive Books charges **$35 for travel + $10 per notarized document**. For a typical 2–3 stamp appointment, you're looking at $55–$65 total.
-
-That difference is not for the notarization itself—it's for the convenience of weekend availability, in your home, with no time off work and no driving. If weekday availability works for you and your documents are simple, the courthouse is the budget-friendly choice. If you need to do this on a Saturday morning before your kids' soccer game, a mobile notary is what you want.
+A courthouse notary in Virginia is capped at a few dollars per stamp. A mobile notary costs more — you're paying for weekend availability, at your location, with no time off work and no driving. If weekday availability works for you and your documents are simple, the courthouse is the budget-friendly choice. If you need to do this on a Saturday morning before your kids' soccer game, a mobile notary is what you want.
 
 ## When to choose a mobile notary
 
