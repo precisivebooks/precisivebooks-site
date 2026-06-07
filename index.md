@@ -9,7 +9,10 @@ keywords: same day mobile notary chantilly va, mobile notary chantilly va, mobil
 
 **Need it done this weekend?** Precisive Books LLC is a Virginia-commissioned mobile notary serving Chantilly and all of Northern Virginia. I come to your home, office, or care facility — Saturday and Sunday, 10:00 AM–8:00 PM. Same-day appointments available. No courthouse lines, no weekday scheduling, no waiting.
 
-[Book a Same-Day Appointment →](/contact/)
+<div style="margin:24px 0;">
+  <a href="/contact/" style="display:inline-block;background:#1a3a5c;color:#fff;text-decoration:none;padding:16px 32px;border-radius:8px;font-size:1.1rem;font-weight:600;box-shadow:0 4px 14px rgba(26,58,92,0.3);transition:background 0.2s;" onmouseover="this.style.background='#2e6da4'" onmouseout="this.style.background='#1a3a5c'">📅 Get a Free Quote →</a>
+  <a href="tel:5713063551" style="display:inline-block;margin-left:12px;background:#fff;color:#1a3a5c;text-decoration:none;padding:16px 32px;border-radius:8px;font-size:1.1rem;font-weight:600;border:2px solid #1a3a5c;box-shadow:0 4px 14px rgba(26,58,92,0.1);">📞 (571) 306-3551</a>
+</div>
 
 ## Why Clients Choose Precisive Books
 
